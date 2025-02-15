@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/intel/trustauthority-client/tdx-cli/constants"
+	"confidentsecurity/trustauthority-client-sevsnp-preview/tdx-cli/constants"
 	"github.com/spf13/cobra"
 )
 

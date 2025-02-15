@@ -11,9 +11,9 @@ Supported TEEs include [Intel® Software Guard Extensions](https://www.intel.com
 For more information about the Client for Go and CLI for Intel TDX, see [Client integration reference](https://docs.trustauthority.intel.com/main/articles/integrate-overview.html) in the Intel Trust Authority documentation.
 
 > [!NOTE]  
-> If you are participating in the **Azure confidential VMs with Intel TDX** (DCesv5 and ECesv5-series confidential VMs) public preview, check out [**azure-tdx-preview**](https://github.com/intel/trustauthority-client-for-go/tree/azure-tdx-preview) instead of **main**. You can use the following command to clone the repo & branch:
+> If you are participating in the **Azure confidential VMs with Intel TDX** (DCesv5 and ECesv5-series confidential VMs) public preview, check out [**azure-tdx-preview**](https://confidentsecurity/trustauthority-client-sevsnp-preview-for-go/tree/azure-tdx-preview) instead of **main**. You can use the following command to clone the repo & branch:
 > ```sh
-> git clone https://github.com/intel/trustauthority-client-for-go client -b azure-tdx-preview
+> git clone https://confidentsecurity/trustauthority-client-sevsnp-preview-for-go client -b azure-tdx-preview
 > ```
 
 ## Methods of Integration

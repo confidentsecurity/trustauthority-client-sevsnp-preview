@@ -2,7 +2,7 @@
 // All rights reserved.
 // SPDX-License-Identifier: BSD-3-Clause
 
-module github.com/intel/trustauthority-client
+module confidentsecurity/trustauthority-client-sevsnp-preview
 
 go 1.22
 

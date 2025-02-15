@@ -18,7 +18,7 @@ import (
 
 	"github.com/google/go-configfs-tsm/configfs/linuxtsm"
 	"github.com/google/go-configfs-tsm/report"
-	"github.com/intel/trustauthority-client/go-connector"
+	"confidentsecurity/trustauthority-client-sevsnp-preview/go-connector"
 )
 
 func IOC(dir, t, nr, size uintptr) uintptr {

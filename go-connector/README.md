@@ -13,7 +13,7 @@ For more information about the Client for Go and CLI for Intel TDX, see [Client 
 Download the latest version of the module with the following command.
 
 ```sh
-go get github.com/intel/trustauthority-client/go-connector
+go get confidentsecurity/trustauthority-client-sevsnp-preview/go-connector
 ```
 
 ## Go Requirement
@@ -32,7 +32,7 @@ Create a new Connector instance, and then use the exposed interfaces to
 access different parts of the Intel Trust Authority API.
 
 ```go
-import "github.com/intel/trustauthority-client/go-connector"
+import "confidentsecurity/trustauthority-client-sevsnp-preview/go-connector"
 
 cfg := connector.Config{
         // Intel Trust Authority base URL

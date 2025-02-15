@@ -14,7 +14,7 @@ import (
 	"testing"
 
 	"github.com/gorilla/mux"
-	"github.com/intel/trustauthority-client/go-connector"
+	"confidentsecurity/trustauthority-client-sevsnp-preview/go-connector"
 )
 
 var nonce = `

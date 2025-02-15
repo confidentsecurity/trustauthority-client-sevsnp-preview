@@ -11,8 +11,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/intel/trustauthority-client/go-sevsnp"
-	"github.com/intel/trustauthority-client/sevsnp-cli/constants"
+	"confidentsecurity/trustauthority-client-sevsnp-preview/go-sevsnp"
+	"confidentsecurity/trustauthority-client-sevsnp-preview/sevsnp-cli/constants"
 	"github.com/pkg/errors"
 	"github.com/spf13/cobra"
 )

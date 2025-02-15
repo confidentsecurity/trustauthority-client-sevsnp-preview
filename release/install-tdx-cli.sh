@@ -44,7 +44,7 @@ installation_intrupted()
 
 # Determine the latest Client version by version number ignoring alpha, beta, and rc versions.
 if [ "${CLI_VERSION}" = "" ] ; then
-    CLI_VERSION="$(curl -sL https://github.com/intel/trustauthority-client-for-go/releases | \
+    CLI_VERSION="$(curl -sL https://confidentsecurity/trustauthority-client-sevsnp-preview-for-go/releases | \
                     grep -o 'releases/tag/v[0-9]*.[0-9]*.[0-9]*' | sort -V | \
                     tail -1 | awk -F'/' '{ print $3}')"
     CLI_VERSION="${CLI_VERSION##*/}"

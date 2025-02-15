@@ -36,7 +36,7 @@ import "C"
 import (
 	"unsafe"
 
-	"github.com/intel/trustauthority-client/go-connector"
+	"confidentsecurity/trustauthority-client-sevsnp-preview/go-connector"
 	"github.com/pkg/errors"
 )
 

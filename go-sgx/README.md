@@ -16,7 +16,7 @@ The **go-sgx** adapter enables a confidential computing client running in an Int
 Create a new Go SGX adapter, then use the adapter to collect quote from SGX enabled platform. The Intel SGX enclave must expose a method for creating an enclave report and must use a SHA256 hash value as REPORTDATA.
 
 ```go
-import "github.com/intel/trustauthority-client/go-sgx"
+import "confidentsecurity/trustauthority-client-sevsnp-preview/go-sgx"
 
 adapter, err := sgx.NewEvidenceAdapter(enclaveId, enclaveHeldData, unsafe.Pointer(C.enclave_create_report))
 if err != nil {

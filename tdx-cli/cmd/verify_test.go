@@ -10,8 +10,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/intel/trustauthority-client/tdx-cli/constants"
-	"github.com/intel/trustauthority-client/tdx-cli/test"
+	"confidentsecurity/trustauthority-client-sevsnp-preview/tdx-cli/constants"
+	"confidentsecurity/trustauthority-client-sevsnp-preview/tdx-cli/test"
 	"github.com/stretchr/testify/assert"
 )
 

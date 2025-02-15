@@ -17,7 +17,7 @@ Use <b>go1.22 or newer</b>. Follow https://go.dev/doc/install for installation o
 ### Get the code
 Checkout the code
 ```sh
-git clone -b sevsnp-preview https://github.com/intel/trustauthority-client-for-go
+git clone -b sevsnp-preview https://confidentsecurity/trustauthority-client-sevsnp-preview-for-go
 ```
 
 ### Build

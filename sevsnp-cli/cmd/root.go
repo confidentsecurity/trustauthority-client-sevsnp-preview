@@ -9,7 +9,7 @@ package cmd
 import (
 	"os"
 
-	"github.com/intel/trustauthority-client/sevsnp-cli/constants"
+	"confidentsecurity/trustauthority-client-sevsnp-preview/sevsnp-cli/constants"
 
 	"github.com/spf13/cobra"
 )

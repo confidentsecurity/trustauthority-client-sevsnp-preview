@@ -9,7 +9,7 @@ package cmd
 import (
 	"testing"
 
-	"github.com/intel/trustauthority-client/sevsnp-cli/constants"
+	"confidentsecurity/trustauthority-client-sevsnp-preview/sevsnp-cli/constants"
 
 	"github.com/stretchr/testify/assert"
 )
