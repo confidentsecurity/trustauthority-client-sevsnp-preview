@@ -8,7 +8,7 @@ package sgx
 import (
 	"unsafe"
 
-	"confidentsecurity/trustauthority-client-sevsnp-preview/go-connector"
+	"github.com/confidentsecurity/trustauthority-client-sevsnp-preview/go-connector"
 )
 
 // sgxAdapter manages SGX Quote collection from SGX enabled platform

@@ -6,7 +6,7 @@
 
 package main
 
-import "confidentsecurity/trustauthority-client-sevsnp-preview/tdx-cli/cmd"
+import "github.com/confidentsecurity/trustauthority-client-sevsnp-preview/tdx-cli/cmd"
 
 func main() {
 	cmd.Execute()

@@ -13,8 +13,8 @@ import (
 	"net/url"
 	"os"
 
-	"confidentsecurity/trustauthority-client-sevsnp-preview/go-connector"
-	"confidentsecurity/trustauthority-client-sevsnp-preview/sevsnp-cli/constants"
+	"github.com/confidentsecurity/trustauthority-client-sevsnp-preview/go-connector"
+	"github.com/confidentsecurity/trustauthority-client-sevsnp-preview/sevsnp-cli/constants"
 
 	"github.com/pkg/errors"
 	"github.com/spf13/cobra"

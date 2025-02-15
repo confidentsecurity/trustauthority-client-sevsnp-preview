@@ -8,7 +8,7 @@
 package tdx
 
 import (
-	"confidentsecurity/trustauthority-client-sevsnp-preview/go-connector"
+	"github.com/confidentsecurity/trustauthority-client-sevsnp-preview/go-connector"
 )
 
 type mockAdapter struct {

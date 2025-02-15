@@ -9,7 +9,7 @@ package cmd
 import (
 	"testing"
 
-	"confidentsecurity/trustauthority-client-sevsnp-preview/tdx-cli/constants"
+	"github.com/confidentsecurity/trustauthority-client-sevsnp-preview/tdx-cli/constants"
 	"github.com/stretchr/testify/assert"
 )
 

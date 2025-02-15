@@ -23,7 +23,7 @@ To run the tests, run `cd go-tdx && go test ./... --tags=test`. See the example 
 **CollectEvidence()** requires a **nonce** argument. A SHA512 hash is calculated for the nonce and tdHeldData (if any) and saved in the TD quote REPORTDATA field. If successful, CollectEvidence() returns a TD quote that's formatted for attestation by Intel Trust Authority.
 
 ```go
-import "confidentsecurity/trustauthority-client-sevsnp-preview/go-tdx"
+import "github.com/confidentsecurity/trustauthority-client-sevsnp-preview/go-tdx"
 
 adapter, err := tdx.NewEvidenceAdapter(tdHeldData, nil)
 if err != nil {

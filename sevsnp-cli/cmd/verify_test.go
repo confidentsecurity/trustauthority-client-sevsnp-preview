@@ -10,8 +10,8 @@ import (
 	"os"
 	"testing"
 
-	"confidentsecurity/trustauthority-client-sevsnp-preview/sevsnp-cli/constants"
-	"confidentsecurity/trustauthority-client-sevsnp-preview/sevsnp-cli/test"
+	"github.com/confidentsecurity/trustauthority-client-sevsnp-preview/sevsnp-cli/constants"
+	"github.com/confidentsecurity/trustauthority-client-sevsnp-preview/sevsnp-cli/test"
 
 	"github.com/stretchr/testify/assert"
 )

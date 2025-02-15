@@ -13,7 +13,7 @@ import (
 
 	"github.com/google/go-configfs-tsm/configfs/linuxtsm"
 	"github.com/google/go-configfs-tsm/report"
-	"confidentsecurity/trustauthority-client-sevsnp-preview/go-connector"
+	"github.com/confidentsecurity/trustauthority-client-sevsnp-preview/go-connector"
 	"github.com/pkg/errors"
 )
 

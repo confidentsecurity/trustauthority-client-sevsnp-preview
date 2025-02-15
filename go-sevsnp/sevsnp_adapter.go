@@ -8,7 +8,7 @@
 package sevsnp
 
 import (
-	"confidentsecurity/trustauthority-client-sevsnp-preview/go-connector"
+	"github.com/confidentsecurity/trustauthority-client-sevsnp-preview/go-connector"
 )
 
 // sevsnpAdapter manages sevsnp report collection from sevsnp enabled platform

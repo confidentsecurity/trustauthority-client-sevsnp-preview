@@ -2,7 +2,7 @@
 // All rights reserved.
 // SPDX-License-Identifier: BSD-3-Clause
 
-module confidentsecurity/trustauthority-client-sevsnp-preview
+module github.com/confidentsecurity/trustauthority-client-sevsnp-preview
 
 go 1.22
 

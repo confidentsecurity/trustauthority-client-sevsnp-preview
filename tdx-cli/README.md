@@ -59,7 +59,7 @@ sudo zypper install git make
 ### Get the code
 Checkout the code
 ```sh
-git clone https://confidentsecurity/trustauthority-client-sevsnp-preview-for-go
+git clone https://github.com/confidentsecurity/trustauthority-client-sevsnp-preview-for-go
 ```
 
 ### Build CLI

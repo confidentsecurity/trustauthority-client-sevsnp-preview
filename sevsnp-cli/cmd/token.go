@@ -17,9 +17,9 @@ import (
 	"regexp"
 	"strings"
 
-	"confidentsecurity/trustauthority-client-sevsnp-preview/go-connector"
-	"confidentsecurity/trustauthority-client-sevsnp-preview/go-sevsnp"
-	"confidentsecurity/trustauthority-client-sevsnp-preview/sevsnp-cli/constants"
+	"github.com/confidentsecurity/trustauthority-client-sevsnp-preview/go-connector"
+	"github.com/confidentsecurity/trustauthority-client-sevsnp-preview/go-sevsnp"
+	"github.com/confidentsecurity/trustauthority-client-sevsnp-preview/sevsnp-cli/constants"
 
 	"github.com/google/uuid"
 	"github.com/pkg/errors"

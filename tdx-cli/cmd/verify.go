@@ -12,8 +12,8 @@ import (
 	"fmt"
 	"os"
 
-	"confidentsecurity/trustauthority-client-sevsnp-preview/go-connector"
-	"confidentsecurity/trustauthority-client-sevsnp-preview/tdx-cli/constants"
+	"github.com/confidentsecurity/trustauthority-client-sevsnp-preview/go-connector"
+	"github.com/confidentsecurity/trustauthority-client-sevsnp-preview/tdx-cli/constants"
 	"github.com/pkg/errors"
 	"github.com/spf13/cobra"
 )

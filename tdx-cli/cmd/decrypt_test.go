@@ -16,7 +16,7 @@ import (
 	"os"
 	"testing"
 
-	"confidentsecurity/trustauthority-client-sevsnp-preview/tdx-cli/constants"
+	"github.com/confidentsecurity/trustauthority-client-sevsnp-preview/tdx-cli/constants"
 	log "github.com/sirupsen/logrus"
 	"github.com/stretchr/testify/assert"
 )

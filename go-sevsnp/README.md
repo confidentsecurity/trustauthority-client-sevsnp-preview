@@ -18,7 +18,7 @@ The Intel Trust Authority Go SEVSNP Adapter is in preview, additional changes an
 Create a new Go SEVSNP adapter, then use the adapter to collect SEVSNP report from the SEVSNP platform. 
 
 ```go
-import "confidentsecurity/trustauthority-client-sevsnp-preview/sevsnp"
+import "github.com/confidentsecurity/trustauthority-client-sevsnp-preview/sevsnp"
 
 adapter, err := sevsnp.NewEvidenceAdapter(teeHeldData))
 if err != nil {

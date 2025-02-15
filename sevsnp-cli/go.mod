@@ -2,7 +2,7 @@
 // All rights reserved.
 // SPDX-License-Identifier: BSD-3-Clause
 
-module confidentsecurity/trustauthority-client-sevsnp-preview/sevsnp-cli
+module github.com/confidentsecurity/trustauthority-client-sevsnp-preview/sevsnp-cli
 
 go 1.22
 
@@ -11,7 +11,7 @@ toolchain go1.22.0
 require (
 	github.com/google/uuid v1.6.0
 	github.com/gorilla/mux v1.8.1
-	confidentsecurity/trustauthority-client-sevsnp-preview v0.0.0-00010101000000-000000000000
+	github.com/confidentsecurity/trustauthority-client-sevsnp-preview v0.0.0-00010101000000-000000000000
 	github.com/pkg/errors v0.9.1
 	github.com/spf13/cobra v1.7.0
 	github.com/stretchr/testify v1.9.0
@@ -41,4 +41,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace confidentsecurity/trustauthority-client-sevsnp-preview => ../
+replace github.com/confidentsecurity/trustauthority-client-sevsnp-preview => ../

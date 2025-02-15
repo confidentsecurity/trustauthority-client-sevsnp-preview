@@ -18,9 +18,9 @@ import (
 	"strings"
 
 	"github.com/google/uuid"
-	"confidentsecurity/trustauthority-client-sevsnp-preview/go-connector"
-	"confidentsecurity/trustauthority-client-sevsnp-preview/go-tdx"
-	"confidentsecurity/trustauthority-client-sevsnp-preview/tdx-cli/constants"
+	"github.com/confidentsecurity/trustauthority-client-sevsnp-preview/go-connector"
+	"github.com/confidentsecurity/trustauthority-client-sevsnp-preview/go-tdx"
+	"github.com/confidentsecurity/trustauthority-client-sevsnp-preview/tdx-cli/constants"
 	"github.com/pkg/errors"
 	"github.com/spf13/cobra"
 )
